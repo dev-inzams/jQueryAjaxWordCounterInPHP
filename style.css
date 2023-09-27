@@ -1,0 +1,30 @@
+.container{
+    width: 65%;
+    margin: auto;
+    background-color: #C70039;
+    height: 100vh;
+    padding: 30px 30px;
+}
+
+.tittle {
+    text-align: center;
+    color: #fff;
+    border-bottom: 2px solid #fff;
+    margin-bottom: 28px;
+    padding-bottom: 13px;
+}
+
+span {
+    color: #219C90;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+textarea#user-word {
+    width: 99%;
+    margin: auto;
+    background: #ffffffa6;
+    color: #000;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
